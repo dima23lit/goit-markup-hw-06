@@ -781,7 +781,7 @@ img {
 
 .is-open {
   opacity: 1;
-  visibility: visible;
+/*   visibility: visible; */
   pointer-events: auto;
 }
 
